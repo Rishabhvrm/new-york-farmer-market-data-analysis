@@ -1,2 +1,0 @@
-A database project implement using Spring Boot with Spring Data JPA along with Streamlit.
-A full functioning project with backend and UI analysing New York Farmers Market Dataset.
