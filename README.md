@@ -1,4 +1,4 @@
-## New York Farmer's Market Data Analysis
+## New York State Farmer's Market Data Analysis
 
 This web-application offers a comprehensive analysis of the New York Farmers Market Dataset.
 
